@@ -8,3 +8,4 @@ SELECT * FROM ausleihe;
 SELECT * FROM mahnung;
 SELECT * FROM reservierung;
 SELECT * FROM lieferung;
+SELECT * FROM personen_adresse;
